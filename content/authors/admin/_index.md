@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-<p align="justify">
+<!-- <p align="justify"> -->
 Hello! My name is Animesh Singh Chouhan. I am a pre-final year undergraduate student at Indian Institute of Technology Kharagpur with an interest in backend development, cloud computing, embedded systems and robotics. Seeking an opportunity to apply my experience in a field of interest through research.
-</p>
+<!-- </p> -->
