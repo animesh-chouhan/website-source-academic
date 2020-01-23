@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "SDE Intern"
+  company = "Trell Experiences Pvt. Ltd"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Bengaluru"
+  date_start = "2019-05-01"
+  date_end = "2019-07-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Responsibilities included:
+  * DevOps for the automated content quality predictor and promoter
+  * Developing a YouTube comment scraper and a Node API to serve the data
+  * Developing a comment filter and tagger to flag profanity and offensive content
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Developer"
+  company = "Kharagpur Open Source Society"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Kharagpur"
+  date_start = "2018-12-01"
+  date_end = "2019-01-31"
+  description = """
+  Facebook-archive
+  * Built a visualizer for Facebook to help analyze Facebook's archive data
+  * Added a feature to enable the users to plot their location history
+  """
 +++
