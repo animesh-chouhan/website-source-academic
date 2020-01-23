@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Incoming Intern@JPMorgan Chase & Co.
+role: Intern@JPMorgan Chase & Co.
 
 # Organizations/Affiliations
 organizations:
