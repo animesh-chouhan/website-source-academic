@@ -44,4 +44,26 @@ date_format = "Jan 2006"
   * Built a visualizer for Facebook to help analyze Facebook's archive data
   * Added a feature to enable the users to plot their location history
   """
+
+[[experience]]
+  title = "Electronics and Embedded System Team Member"
+  company = "Kharagpur Robosoccer Students Group"
+  company_url = ""
+  location = "Kharagpur"
+  date_start = "2018-03-01"
+  date_end = "2019-06-30"
+  description = """
+  Designed and manufactured a PID control demonstrator and wrote a script for live visualizations 
+  """
+
+[[experience]]
+  title = "Trainee"
+  company = "TeamKART-Official FSAE team of IIT Kharagpur"
+  company_url = ""
+  location = "Kharagpur"
+  date_start = "2017-09-01"
+  date_end = "2018-01-31"
+  description = """
+  As a trainee at TeamKART, I worked on the electronics sub-section and also learnt the basics of automotive engineering.
+  """
 +++

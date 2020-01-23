@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certifications"
 subtitle = ""
 
 # Date format
@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "University of Pennsylvania"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Introduction to Marketing"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/YVLW7B7ANYQD"
+  date_start = "2019-01-01"
   date_end = ""
-  description = ""
+  description = "Covered core topics in customer loyalty, branding, customer centricity, and practical go-to-market strategies."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  organization = "Georgia Tech Professional Education"
+  organization_url = "https://www.coursera.org"
+  title = "Control of Mobile Robots"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/5559Q5VDUE7R"
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Formulated a model based on modern control theory to move around the robots in safe and effective ways."
   
 [[item]]
   organization = "DataCamp"
