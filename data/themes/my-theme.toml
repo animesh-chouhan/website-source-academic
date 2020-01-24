@@ -5,18 +5,18 @@ name = "my-theme"
 light = true
 
 # Primary
-primary = "#40a5be"
-primary_light = "#40a5be"
+primary = "#3FCAFF"
+primary_light = "#3FCAFF"
 primary_dark = "#bb86fc"
 
 # Links
-link = "#40a5be"
+link = "#3FCAFF"
 link_hover = "#03dac6"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#40a5be"
+menu_text_active = "#3FCAFF"
 menu_title = "#2b2b2b"
 
 # Home sections
