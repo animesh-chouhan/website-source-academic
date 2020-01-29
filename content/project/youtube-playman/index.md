@@ -35,9 +35,7 @@ url_video: ""
 slides: example
 ---
 
-A simple yet powerful script to download and manage local copies of youtube music playlists. It wraps over the youtube-dl downloader and maintains an archive of downloaded songs. It also updates them automatically if a cronjob is configured.
-
-[More Info](https://animesh-chouhan.github.io/youtube-playman/)
+A simple yet powerful script to download and manage local copies of youtube music playlists. It wraps over the youtube-dl downloader and maintains an archive of downloaded songs. It also updates them automatically if a cronjob is configured. [More Info](https://animesh-chouhan.github.io/youtube-playman/)
 
 ## Setup
 
