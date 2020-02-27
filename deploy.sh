@@ -9,7 +9,7 @@ printf "\033[0;32mDeploying updates to source repo...\033[0m\n"
 hugo -t academic
 
 # Add changes to git.
-git add .
+git add -A
 
 # Commit changes.
 msg="rebuilding site $(date)"
