@@ -52,6 +52,8 @@ $cd cpp-docs-printer
 Installing the dependencies:
 
 ```sh
+#install python3-pip
+$sudo apt-get install python3-pip
 #requests
 $sudo pip3 install requests 
 
