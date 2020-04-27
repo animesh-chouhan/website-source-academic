@@ -56,7 +56,7 @@ social:
   link: https://twitter.com/animeshsingh38
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/animesh.singh.38
+  link: https://www.facebook.com/singhanimesh38
 
 #Link to a PDF of your resume/CV from the About widget.
 #To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
