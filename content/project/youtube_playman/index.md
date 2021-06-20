@@ -37,6 +37,7 @@ slides: example
 
 A simple yet powerful script to download and manage local copies of youtube music playlists. It wraps over the youtube-dl downloader and maintains an archive of downloaded songs. It also updates them automatically if a cronjob is configured. [More Info](https://animesh-chouhan.github.io/youtube-playman/)
 
+
 ## Setup
 
 ### Linux:
@@ -103,7 +104,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[license]: https://img.shields.io/github/license/animesh-chouhan/yt-comment-scraper.svg?style=plastic
+[license]: https://img.shields.io/github/license/animesh-chouhan/youtube-playman
 [wiki]: https://github.com/animesh-chouhan/youtube-playman/wiki
 
 ## License
