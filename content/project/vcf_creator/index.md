@@ -35,6 +35,8 @@ url_video: ""
 slides: example
 ---
 
+<iframe width="888" height="500" src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Generate vCard file from CSV
 
 ## Setup
