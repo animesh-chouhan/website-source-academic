@@ -17,6 +17,18 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Summer Intern"
+  company = "JPMorgan Chase & Co."
+  company_url = ""
+  location = "Bengaluru"
+  date_start = "2020-05-01"
+  date_end = "2020-06-01"
+  description = """
+  Got a full-time offer but can't disclose details as a signed a NDA
+  """
+
 [[experience]]
   title = "SDE Intern"
   company = "Trell Experiences Pvt. Ltd"
