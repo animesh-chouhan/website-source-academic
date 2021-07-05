@@ -32,6 +32,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "Youtube"
      tag = "Youtube"
+
+   [[content.filter_button]]
+     name = "VCF"
+     tag = "VCF"
   
 #   [[content.filter_button]]
 #     name = "Deep Learning"

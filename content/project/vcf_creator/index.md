@@ -3,7 +3,8 @@ title: VCF Creator
 summary: Generate vCard file from CSV
 tags:
 - Web
-- Youtube
+- VCF
+- vCard
 date: "2021-06-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -35,7 +36,7 @@ url_video: ""
 slides: example
 ---
 
-Generate vCard file from CSV
+>Generate vCard file from CSV
 
 ## Setup
 
@@ -47,6 +48,14 @@ cd vcf-creator
 
 # Run the sample csv file
 python3 -m vcf_creator sample.csv
+```
+### Running tests
+```sh
+# If in vc-creator folder
+cd vcf_creator/tests
+
+# Run the test
+python3 test_vcf.py
 ```
 
 ### Installation:
@@ -60,12 +69,33 @@ pip3 install vcf_creator
 ```sh
 python3 -m vcf_creator --help
 ```
+OR
+
+```sh
+vcf_creator --help
+```
 
 ### Running the script:
 
 ```sh
 python3 -m vcf_creator <csv-file-name>
 ```
+OR
+
+```sh
+vcf_creator <csv-file-name>
+```
+
+### Import the module in your project:
+
+```python
+from vcf_creator import vcard_formatter, vcard_generator
+
+vcard_formatter(arguments)
+vcard_generator(arguments)
+
+```
+
 ## CSV File Instructions
 
 1. The contact CSV file can have the following headers all in smallcase:
@@ -74,7 +104,7 @@ python3 -m vcf_creator <csv-file-name>
     - organisation
     - email
     - address
-    - birthday
+    - birthday (mm/dd/yyyy)
 2. The headers can be in any order
 3. Make sure that no fields are empty
 
