@@ -3,7 +3,6 @@ title: Coming Soon
 summary: An example of using the in-built project page.
 tags:
 - Web
-- VCF
 date: "2005-07-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
