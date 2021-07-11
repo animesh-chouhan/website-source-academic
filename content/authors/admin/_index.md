@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Animesh Singh
+name: Animesh Singh Chouhan
 
 # Username (this should match the folder name)
 authors:
@@ -75,5 +75,5 @@ user_groups:
 ---
 
 <!-- <p align="justify"> -->
-Hello! My name is Animesh Singh Chouhan. I am a final year undergraduate student at Indian Institute of Technology Kharagpur with an interest in backend development, cloud computing, embedded systems and robotics. Seeking an opportunity to apply my experience in a field of interest through research.
+Hello! My name is Animesh Singh Chouhan. I am a final year undergraduate student at Indian Institute of Technology Kharagpur with an interest in machine learning, backend development, cloud computing, embedded systems and robotics. Seeking an opportunity to apply my experience in a field of interest through research.
 <!-- </p> -->
