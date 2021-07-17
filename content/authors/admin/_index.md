@@ -76,7 +76,7 @@ user_groups:
 <p align="justify">
 Hello! My name is Animesh Singh Chouhan. I am an Indian Institute of Technology Kharagpur graduate with an interest in machine learning, backend development, cloud computing, embedded systems and robotics. Seeking an opportunity to apply my experience in a field of interest through research.
 
-<style>
+<!-- <style>
 .button-resume {
   appearance: button;
   background-color: #3FCAFF;
@@ -94,8 +94,12 @@ Hello! My name is Animesh Singh Chouhan. I am an Indian Institute of Technology 
 a.button-resume:hover {
   color: white;
 }
-</style>
+</style> -->
 
-<a href="/files/cv.pdf" class="button-resume">Resume</a>
+<p>
+  <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/files/cv.pdf" target="_blank">resumé</a>.
+  </p>
+
+<!-- <a href="/files/cv.pdf" class="button-resume">Resume</a> -->
 
 </p>
