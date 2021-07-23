@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Analyst@JPMorgan Chase & Co.
+role: Software Analyst@JPMorgan Chase & Co.
 
 # Organizations/Affiliations
 organizations:
