@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 echo "http://localhost:1313/"
-hugo --i18n-warnings server
+hugo --i18n-warnings server --disableFastRender
 
