@@ -34,13 +34,13 @@ slides: example
 
 > Web interface for VCF Creator
 
-Live Website: https://vcf-creator.herokuapp.com
+Live Website: https://vcf.animeshchouhan.com
 
 Github: https://github.com/animesh-chouhan/vcf-creator-web-interface
 
 ## Setup
 
-### Cloning the repository:
+### Cloning the repository
 
 ```sh
 # Clone the repo
@@ -48,7 +48,7 @@ git clone https://github.com/animesh-chouhan/vcf-creator-web-interface.git
 cd vcf-creator-web-interface
 ```
 
-### Installing dependencies:
+### Installing dependencies
 
 Using pip and requirements.txt:
 
@@ -63,7 +63,7 @@ pipenv shell
 pipenv install
 ```
 
-### Running the script:
+### Running the script
 
 ```sh
 # Make view.sh executable
@@ -71,13 +71,11 @@ chmod a+x view.sh
 ./view.sh
 ```
 
-### Docker:
+### Docker
 
 ```sh
-docker run --rm -it  -p 8080:8080/tcp animeshsingh38/vcf-creator-web-interface
+docker run --rm -it -p 8080:8080/tcp animeshchouhan/vcf-creator-web-interface
 ```
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Built With
 
@@ -96,5 +94,6 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 [wiki]: https://github.com/animesh-chouhan/vcf-creator-web-interface/wiki
 
 ## License
+
 MIT License
 copyright (c) 2021 [Animesh Singh Chouhan](https://github.com/animesh-chouhan). Please have a look at the [license](LICENSE) for more details.

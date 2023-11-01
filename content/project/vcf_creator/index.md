@@ -38,6 +38,10 @@ slides: example
 
 > Generate vCard file from CSV
 
+Live Website: https://vcf.animeshchouhan.com
+
+Github: https://github.com/animesh-chouhan/vcf-creator
+
 ## Usage example
 
 ![preview](https://raw.githubusercontent.com/animesh-chouhan/vcf-creator/main/assets/preview.gif)
@@ -45,11 +49,10 @@ slides: example
 <!-- Click on the play button to see an example download.
 [![asciicast](https://asciinema.org/a/422828.svg)](https://asciinema.org/a/422828) -->
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Setup
 
-### Cloning the repository:
+### Cloning the repository
 
 ```sh
 # Clone the repo
@@ -70,7 +73,7 @@ cd vcf_creator/tests
 python3 test_vcf.py
 ```
 
-### Installation:
+### Installation
 
 To install it right away, type:
 
@@ -78,7 +81,7 @@ To install it right away, type:
 pip3 install vcf_creator
 ```
 
-### Help:
+### Help
 
 ```sh
 python3 -m vcf_creator --help
@@ -90,7 +93,7 @@ OR
 vcf_creator --help
 ```
 
-### Running the script:
+### Running the script
 
 ```sh
 python3 -m vcf_creator <csv-file-name>
@@ -102,7 +105,7 @@ OR
 vcf_creator <csv-file-name>
 ```
 
-### Import the module in your project:
+### Import the module in your project
 
 ```python
 from vcf_creator import vcard_formatter, vcard_generator
