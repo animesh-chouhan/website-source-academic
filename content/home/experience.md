@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Software Analyst"
+  title = "Software Engineer"
   company = "JPMorgan Chase & Co."
   company_url = "https://www.jpmorganchase.com/"
   location = "Bengaluru"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = "2020-06-01"
   description = """
-  Got a full-time offer but can't disclose details as a signed a NDA
+  Got a pre-placement offer
   """
 
 [[experience]]
